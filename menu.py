@@ -2,7 +2,7 @@ print("welcome")
 
 print("press 1")
 
-x=5
+x=501
 
 y=6
 
